@@ -14,4 +14,4 @@ This JavaScript code snippet enhances user interactivity by allowing the togglin
 After the intro days, I decided to add some improvements to our simole project. Instead of an image in the header, I added a video from <a href="https://www.pexels.com/videos/" target="a_blank"> Pexels </a>.
 
 ## View it live
-Here you will see it <a href="https://peppy-sprite-6183ad.netlify.app"> live </a>.
+Here you will see it <a href="https://leafy-duckanoo-0d53b4.netlify.app/"> live </a>.
