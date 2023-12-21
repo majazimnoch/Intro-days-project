@@ -1,6 +1,6 @@
 # Mob-programming & the one-pager project
 
-<img src="./images/screenshot.png">
+![plot](./images/screenshot.png)
 
 ## Overview
 
