@@ -1,8 +1,10 @@
 # Mob-programming & the one-pager project
 
+<img src="./images/screenshot.png">
+
 ## Overview
 
-The task was to create a business one-pager website that contains an image or video header, a signup form, and an accordion. It was made in a group of 5 people, using mob-programming technique. This simple project was to be finished during just a couple of hours, durng the intro day of the Web Development Bootcamp (Technigo),
+The task was to create a business one-pager website that contains an image or video header, a signup form, and an accordion. It was made in a group of 5 people, using mob-programming technique. This simple project was to be finished during just a couple of hours, durng the intro day of the Web Development Bootcamp (Technigo).
 
 ## Business one-pager website
 
