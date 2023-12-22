@@ -6,13 +6,13 @@ This project, created as part of the Web Development Bootcamp at Technigo, is a 
 
 ## Business one-pager website
 
-Our team chose to create a dedicated webpage focused on dog adoption. We designed a user-friendly form for individuals interested in adoption to easily submit their personal details. To facilitate form testing and debugging, we utilize the httpbin.org service as the form action endpoint. This allows us to observe and validate the data sent from the adoption form. The /anything endpoint on HTTPBin is a versatile tool for testing and debugging HTTP requests. It echoes back information about the received request, making it useful for validating your application's interactions with a server.
+Our team chose to create a dedicated webpage focused on dog adoption. We designed a user-friendly form for individuals interested in adoption to easily submit their personal details. To facilitate form testing and debugging, we utilize the httpbin.org service as the form action endpoint. This allows us to observe and validate the data sent from the adoption form (the /anything endpoint on HTTPBin is a versatile tool for testing and debugging HTTP requests which echoes back information about the received request). 
 
 We implemented a dynamic FAQ section using JavaScript logic to address common dog adoption questions. This JavaScript code snippet enhances user interactivity by allowing the toggling of a class, "active," on two specified HTML elements (#section1 and #section2). The code defines toggle functions for each element, and these functions are triggered by click events on the corresponding elements. This implementation provides a straightforward way to toggle visual styles, contributing to a more dynamic and engaging user experience.
 
 ## The problem
 
-After the intro days, I decided to add some improvements to our simple project. Instead of an image in the header, I added a video from <a href="https://www.pexels.com/videos/" target="a_blank"> Pexels </a>. It required using <video> tag instead of placing the image as a background of the div. Then the video needed to be adjusted for each of three sizes of the screen to make this project responsive. 
+After the intro days, I decided to add some improvements to our intro days project. Instead of an image in the header, I decided to add a video from <a href="https://www.pexels.com/videos/" target="a_blank"> Pexels </a> to my header. It required using <video> tag instead of placing the image as a background of the div. Then the video needed to be adjusted for each of three sizes of the screen to make this project fully responsive. 
 
 ## View it live
 Here you will see it <a href="https://leafy-duckanoo-0d53b4.netlify.app/" target="_blank"> live </a>.
