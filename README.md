@@ -2,16 +2,17 @@
 
 ## Overview
 
-The task was to create a business one-pager website that contains an image or video header, a signup form, and an accordion. It was made in a group of 5 people, using mob-programming technique. This simple project was to be finished during just a couple of hours, durng the intro day of the Web Development Bootcamp (Technigo).
+This project, created as part of the Web Development Bootcamp at Technigo, is a business one-pager website developed collaboratively by a team of 5 individuals using mob-programming techniques. The project was completed within a few hours during the introductory day of the Bootcamp. Emphasis on simplicity and quick implementation to meet project goals within the given timeframe. The brief for the project included: having an engaging image or video header, a signup form and an accordion for the Q&A section, made with some basic logics of JavaScript. 
 
 ## Business one-pager website
 
-Our group decided to develop a page dedicated to adoption of dogs. We made a simple form where people interested in adoption can fill in their personal information. We also added an accordion using Javascript logic. This is a FAQ section which covers some dogs adoption questions. 
-This JavaScript code snippet enhances user interactivity by allowing the toggling of a class, "active," on two specified HTML elements (#section1 and #section2). The code defines toggle functions for each element, and these functions are triggered by click events on the corresponding elements. This implementation provides a straightforward way to toggle visual styles, contributing to a more dynamic and engaging user experience.
+Our team chose to create a dedicated webpage focused on dog adoption. We designed a user-friendly form for individuals interested in adoption to easily submit their personal details. To facilitate form testing and debugging, we utilize the httpbin.org service as the form action endpoint. This allows us to observe and validate the data sent from the adoption form. The /anything endpoint on HTTPBin is a versatile tool for testing and debugging HTTP requests. It echoes back information about the received request, making it useful for validating your application's interactions with a server.
+
+We implemented a dynamic FAQ section using JavaScript logic to address common dog adoption questions. This JavaScript code snippet enhances user interactivity by allowing the toggling of a class, "active," on two specified HTML elements (#section1 and #section2). The code defines toggle functions for each element, and these functions are triggered by click events on the corresponding elements. This implementation provides a straightforward way to toggle visual styles, contributing to a more dynamic and engaging user experience.
 
 ## The problem
 
-After the intro days, I decided to add some improvements to our simole project. Instead of an image in the header, I added a video from <a href="https://www.pexels.com/videos/" target="a_blank"> Pexels </a>.
+After the intro days, I decided to add some improvements to our simple project. Instead of an image in the header, I added a video from <a href="https://www.pexels.com/videos/" target="a_blank"> Pexels </a>. It required using <video> tag instead of placing the image as a background of the div. Then the video needed to be adjusted for each of three sizes of the screen to make this project responsive. 
 
 ## View it live
-Here you will see it <a href="https://leafy-duckanoo-0d53b4.netlify.app/"> live </a>.
+Here you will see it <a href="https://leafy-duckanoo-0d53b4.netlify.app/" target="_blank"> live </a>.
